@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="0" started-at="2020-02-10T13:00:23Z" finished-at="2020-02-10T13:00:23Z">
+    <groups>
+    </groups>
+  </suite> <!-- Suite -->
+  <suite name="Suite (1)" duration-ms="46" started-at="2020-02-10T13:00:22Z" finished-at="2020-02-10T13:00:23Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="46" started-at="2020-02-10T13:00:22Z" finished-at="2020-02-10T13:00:23Z">
+      <class name="TestNg.sampletest">
+        <test-method status="PASS" signature="beforesuitemethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="beforesuitemethod" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuitemethod -->
+        <test-method status="PASS" signature="beforesuitemethod()[pri:0, instance:TestNg.sampletest@28f67ac7]" name="beforesuitemethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuitemethod -->
+        <test-method status="PASS" signature="beforetestmethod()[pri:0, instance:TestNg.sampletest@28f67ac7]" name="beforetestmethod" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetestmethod -->
+        <test-method status="PASS" signature="beforetestmethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="beforetestmethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetestmethod -->
+        <test-method status="PASS" signature="beforeclassmethod()[pri:0, instance:TestNg.sampletest@28f67ac7]" name="beforeclassmethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassmethod -->
+        <test-method status="PASS" signature="befoermethod()[pri:0, instance:TestNg.sampletest@28f67ac7]" name="befoermethod" is-config="true" duration-ms="3" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befoermethod -->
+        <test-method status="PASS" signature="sam()[pri:1, instance:TestNg.sampletest@28f67ac7]" name="sam" duration-ms="17" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:TestNg.sampletest@28f67ac7]" name="aftermethod" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclassmethod()[pri:0, instance:TestNg.sampletest@28f67ac7]" name="afterclassmethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclassmethod -->
+        <test-method status="PASS" signature="aftertestmethod()[pri:0, instance:TestNg.sampletest@28f67ac7]" name="aftertestmethod" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertestmethod -->
+        <test-method status="PASS" signature="aftertestmethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="aftertestmethod" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertestmethod -->
+        <test-method status="PASS" signature="aftersuitemethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="aftersuitemethod" is-config="true" duration-ms="7" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuitemethod -->
+        <test-method status="PASS" signature="aftersuitemethod()[pri:0, instance:TestNg.sampletest@28f67ac7]" name="aftersuitemethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuitemethod -->
+      </class> <!-- TestNg.sampletest -->
+      <class name="TestNg.sampletest2">
+        <test-method status="PASS" signature="beforeclassmethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="beforeclassmethod" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclassmethod -->
+        <test-method status="PASS" signature="befoermethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="befoermethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befoermethod -->
+        <test-method status="PASS" signature="div()[pri:0, instance:TestNg.sampletest2@256216b3]" name="div" duration-ms="2" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="aftermethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="befoermethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="befoermethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befoermethod -->
+        <test-method status="PASS" signature="mul()[pri:2, instance:TestNg.sampletest2@256216b3]" name="mul" duration-ms="4" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="aftermethod" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="afterclassmethod()[pri:0, instance:TestNg.sampletest2@256216b3]" name="afterclassmethod" is-config="true" duration-ms="0" started-at="2020-02-10T18:30:23Z" finished-at="2020-02-10T18:30:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclassmethod -->
+      </class> <!-- TestNg.sampletest2 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite (1) -->
+  <suite name="Suite (0)" duration-ms="70" started-at="2020-02-10T13:00:22Z" finished-at="2020-02-10T13:00:22Z">
+    <groups>
+      <group name="Regression">
+        <method signature="groupsexample.red()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="red" class="TestNg.groupsexample"/>
+        <method signature="groupsexample.sam()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="sam" class="TestNg.groupsexample"/>
+      </group> <!-- Regression -->
+      <group name="sanity">
+        <method signature="groupsexample.add()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="add" class="TestNg.groupsexample"/>
+        <method signature="groupsexample.green()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="green" class="TestNg.groupsexample"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test name="Test" duration-ms="70" started-at="2020-02-10T13:00:22Z" finished-at="2020-02-10T13:00:22Z">
+      <class name="TestNg.groupsexample">
+        <test-method status="PASS" signature="group2()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="group2" is-config="true" duration-ms="8" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- group2 -->
+        <test-method status="PASS" signature="add()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="add" duration-ms="6" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="green()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="green" duration-ms="3" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- green -->
+        <test-method status="PASS" signature="aftergroup2()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="aftergroup2" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftergroup2 -->
+        <test-method status="PASS" signature="group1()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="group1" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- group1 -->
+        <test-method status="PASS" signature="red()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="red" duration-ms="2" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- red -->
+        <test-method status="PASS" signature="sam()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="sam" duration-ms="1" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam -->
+        <test-method status="PASS" signature="aftergroup1()[pri:0, instance:TestNg.groupsexample@4b6995df]" name="aftergroup1" is-config="true" duration-ms="1" started-at="2020-02-10T18:30:22Z" finished-at="2020-02-10T18:30:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftergroup1 -->
+      </class> <!-- TestNg.groupsexample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
